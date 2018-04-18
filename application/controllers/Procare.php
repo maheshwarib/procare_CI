@@ -6,7 +6,7 @@ class Procare extends CI_Controller {
 	public function homepage()
 	{
     $toView['page_content'] = date("H:i:s");
-    $toView['title'] = "";
+    $toView['title'] = "Procare Accounting Solutions";
    $data['contents']  = 'homepage';
      $data['page'] = 1;
      $this->load->view('template', $data);
@@ -17,7 +17,7 @@ public function about()
   {
    /*Define single page content as usual*/
    $toView['page_content'] = date("H:i:s");
-   $toView['title'] = "";
+   $toView['title'] = "About Procare Accounting Solutions";
   $data['contents']  = 'about';
     $data['page'] = 2;
     $this->load->view('template', $data);
@@ -27,7 +27,7 @@ public function about()
 {
  /*Define single page content as usual*/
  $toView['page_content'] = date("H:i:s");
- $toView['title'] = "";
+ $toView['title'] = "contact Procare Accounting Solutions";
 $data['contents']  = 'contactus';
   $data['page'] = 3;
   $this->load->view('template', $data);
@@ -36,7 +36,7 @@ $data['contents']  = 'contactus';
 {
 /*Define single page content as usual*/
 $toView['page_content'] = date("H:i:s");
-$toView['title'] = "";
+$toView['title'] = "services of Procare Accounting Solutions";
 $data['contents']  = 'services';
 $data['page'] = 4;
 $this->load->view('template', $data);
