@@ -9,7 +9,7 @@
           <address>
                <h4>our contact</h4>
                <div class="info"><i aria-hidden="true" class="fa fa-map-marker"></i>
-                 <p>#11/2, 1st Main<br> Mahala <br>Benagaluru - 560086 </p>
+                 <p>Procare Accounting Solutions<br> #11/2, 1st Cross, 1st Main <br>Mahalakshmipuram,<br> bengaluru-560086</p>
                </div><br>
                <div class="info"><i aria-hidden="true" class="fa fa-phone"></i>
                  <p>080-23101039</p>

@@ -32,7 +32,7 @@
           <li>
             <div class="icon-box"><i class="fa fa-map-marker"></i></div>
             <div class="text-box">
-              <p>Procare, 1416, 2nd floor, 2nd Cross <br>Govnadarjanagara, bengaluru-560079</p>
+              <p>Procare Accounting Solutions<br> #11/2, 1st Cross, 1st Main <br>Mahalakshmipuram,<br> bengaluru-560086</p>
             </div>
           </li>
           <li>
@@ -44,7 +44,7 @@
           <li>
             <div class="icon-box"><i class="fa fa-phone"></i></div>
             <div class="text-box">
-              <p>+ 1800 562 2487 <br>+ 3215 546 8975</p>
+              <p>+91 80 23491039 <br>+91 9986 920386</p>
             </div>
           </li>
         </ul>
