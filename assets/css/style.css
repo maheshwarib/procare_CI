@@ -139,7 +139,7 @@ p {
   margin-left: 7px;
 }
 .thm-button.inverse, .thm-button:hover {
-  background: #C4D114;
+  background: #853D80;
   color: #171717;
 }
 .thm-button.inverse:hover {
@@ -161,7 +161,7 @@ p {
 }
 .sec-title .decor-line,
 .page-title .decor-line {
-  background: #C4D114;
+  background: #853D80;
   width: 50px;
   height: 3px;
   display: inline-block;
@@ -241,7 +241,7 @@ p {
   padding-right: 20px;
 }
 .header .header-right-info ul li .single-header-right-info .icon-box i {
-  color: #C4D114;
+  color: ##CD84BA;
   font-size: 30px;
 }
 .header .header-right-info ul li .single-header-right-info .text-box p {
@@ -327,7 +327,7 @@ p {
 }
 #main-navigation-wrapper.navbar-default .navbar-nav > .open > a, #main-navigation-wrapper.navbar-default .navbar-nav > .open > a:focus, #main-navigation-wrapper.navbar-default .navbar-nav > .open > a:hover, #main-navigation-wrapper.navbar-default .navbar-nav > li:hover > a {
   background: none;
-  color: #C4D114;
+  color: #853D80;
 }
 #main-navigation-wrapper .navbar-form {
   background: #1C1C29;
@@ -613,7 +613,7 @@ transition: all .5s;
 }
 
 #minimal-bootstrap-carousel .slide-2 .carousel-caption h3 {
-  color: #C9D705;
+  color: #853D80;
   margin: 0;
   font-size: 40px;
   line-height: 55px;
@@ -826,8 +826,9 @@ a.getting-started-button {
   padding: 0;
   padding-left: 60px;
 }
+
 .full-img-sec .left-content .sec-title .decor-line {
-    background: #f6ba18;
+    background: #913F81;
     width: 50px;
     height: 3px;
     display: inline-block;
@@ -967,7 +968,7 @@ border-top-width: 29px;
 .faq-left-box .single-faq-left .icon-box {
   font-size: 44px;
   width: 45px;
-  color: #c4d114;
+  color: #853D80;
 }
 .faq-left-box .single-faq-left .text-box {
   padding-left: 25px;
@@ -1152,7 +1153,7 @@ border-top-width: 29px;
 }
 .single-testimonial .text-box h3 {
     text-transform: uppercase;
-    color: #C4D114;
+    color: #853D80;
     font-size: 22px;
     line-height: 26px;
     font-weight: 800;
@@ -1192,7 +1193,7 @@ border-top-width: 29px;
 }
 .single-testimonial .text-box-2 h3 {
     text-transform: uppercase;
-    color: #C4D114;
+    color: #853D80;
     font-size: 22px;
     line-height: 26px;
     font-weight: 800;
@@ -1325,7 +1326,7 @@ border-top-width: 29px;
   overflow: hidden;
 }
 .single-team-member .img-box .overlay .box .content ul {
-  background: #C4D114;
+  background: #853D80;
   margin: 0;
   margin-left: -12px;
   margin-right: -12px;
@@ -1405,7 +1406,7 @@ border-top-width: 29px;
   width: 15px;
   height: 1px;
   display: inline-block;
-  background: #d0da49 !important;
+  background: #913F81 !important;
 }
 .single-blog-post .date-box h4 {
   font-size: 14px;
@@ -1423,7 +1424,7 @@ border-top-width: 29px;
           transition: color .4s ease;
 }
 .single-blog-post h3:hover {
-  color: #C4D114;
+  color: #853D80;
 }
 .single-blog-post p {
   margin-top: 7px;
@@ -1472,7 +1473,7 @@ border-top-width: 29px;
   color: #FFF;
 }
 .right-box .single-blog-post:hover h4 {
-  color: #d0da49;
+  color: #913F81;
 }
 .right-box .single-blog-post:hover p {
   color: #FFF;
@@ -1518,7 +1519,7 @@ border-top-width: 29px;
 .blog-page .single-blog-post .img-holder .date-box {
     width: 85px;
     height: 85px;
-    background: #DAE456;
+    background: #913F81;
     text-align: center;
     position: absolute;
     bottom: 0;
@@ -1554,7 +1555,7 @@ border-top-width: 29px;
 }
 .blog-page .single-blog-post ul.meta li a i {
     font-size: 16px;
-    color: #B3C102;
+    color:#913F81;
     margin-right: 6px;
 }
 .blog-page .single-blog-post h3 a {
@@ -1604,7 +1605,7 @@ border-top-width: 29px;
   top: -5px;
 }
 .single-blog-page .title .decor-line {
-  background: #C4D114;
+  background: #853D80;
   width: 45px;
   height: 3px;
   display: inline-block;
@@ -1635,7 +1636,7 @@ border-top-width: 29px;
   margin-right: 15px;
 }
 .single-blog-page .single-blog-post .qoute-box {
-  background: #DAE456;
+  background: #913F81;
   font-style: italic;
   padding: 25px 25px;
 }
@@ -1713,7 +1714,7 @@ border-top-width: 29px;
   padding-right: 6px;
 }
 .single-blog-page .single-comment-box > ul > li .text-box ul.list-inline li:last-child a {
-  color: #BFCD06;
+  color: #913F81;
   border: none;
   padding-left: 5px;
 }
@@ -1791,14 +1792,14 @@ border-top-width: 29px;
 
   margin-top: 34px;
 background-color: transparent;
-border: 1px solid #C4D114;
-color: #C4D114;
+border: 1px solid #853D80;
+color: #853D80;
 }
 .home-cta .thm-button:hover {
 
   margin-top: 34px;
-background-color: #C4D114;
-border: 1px solid #C4D114;
+background-color: #853D80;
+border: 1px solid #853D80;
 color: #FFF;
 }
 
@@ -1853,7 +1854,7 @@ color: #FFF;
   width: 32px;
   height: 5px;
   display: inline-block;
-  background: #CBD913;
+  background: #913F81;
 }
 .about-cta .single-count-box .box {
   margin-top: 12px;
@@ -1913,7 +1914,7 @@ color: #FFF;
   top: -5px;
 }
 .footer .title .decor-line {
-  background: #C4D114;
+  background: #853D80;
   width: 45px;
   height: 3px;
   display: inline-block;
@@ -1927,7 +1928,7 @@ color: #FFF;
 }
 .footer .tel-box .icon-box i {
   font-size: 20px;
-  color: #C4D114;
+  color: #853D80;
 }
 .footer .tel-box .text-box {
   padding-left: 10px;
@@ -1935,7 +1936,7 @@ color: #FFF;
 .footer .tel-box .text-box h4 {
   font-size: 20px;
   line-height: 22px;
-  color: #C4D114;
+  color: #853D80;
   font-weight: 600;
 }
 .footer .tel-box .text-box p {
@@ -1981,7 +1982,7 @@ color: #FFF;
     text-transform: capitalize;
 }
 .footer .twitter-feed li .color-light-grn {
-  color: #b4ba65;
+  color:#913F81;
 }
 .footer .twitter-feed li a:hover {
   color: #46B9E3;
@@ -1989,7 +1990,7 @@ color: #FFF;
 .footer .twitter-feed li .fa-twitter {
     font-family: 'fontawesome';
     margin-right: 12px;
-    color: #b4ba65;
+    color: #913F81;
     font-size: 20px;
 }
 .footer ul.flickr-img{
@@ -2026,8 +2027,8 @@ color: #FFF;
   font-size: 12px;
 }
 .footer .social li a:hover {
-  color: #C4D114;
-  border-color: #C4D114;
+  color: #853D80;
+  border-color: #853D80;
 }
 .footer .subscribe-widget input {
   width: 100%;
@@ -2071,7 +2072,7 @@ color: #FFF;
     margin: 10px 0 50px 0;
 }
 .footer-contacts4 .thm-button {
-    background: #cbd913;
+    background: #913F81;
     color: #363a41;
 }
 /***************************************
@@ -2083,7 +2084,7 @@ color: #FFF;
   padding: 75px 0;
   position: relative;
   min-height: 235px;
-  border-bottom: 4px solid #c7cb46;
+  border-bottom: 4px solid #913F81;
 }
 .inner-banner:before {
   content: '';
@@ -2190,13 +2191,13 @@ color: #FFF;
 }
 .contact-info-box .icon-box i {
   font-size: 30px;
-  color: #CBD913;
+  color: #913F81;
   line-height: 46px;
   width: 50px;
   text-align: center;
   height: 50px;
   border-radius: 50%;
-  border: 1px solid #CEDB3C;
+  border: 1px solid #913F81;
 }
 .contact-info-box .icon-box i.fa-envelope-o {
   font-size: 23px;
@@ -2353,7 +2354,7 @@ color: #FFF;
     background: rgba(0, 0, 0, 0.3);
 }
 .project-page .single-project-item a.btn {
-    background: #c6c849;
+    background: #913F81;
     color: #000;
 }
 .single-project-item:hover .btn {
@@ -2551,7 +2552,7 @@ a.loadmore {
     transition: color .4s ease;
 }
 a.loadmore:hover {
-    color: #C4D114;
+    color: #853D80;
 }
 .project-two .thm-container.full-boxed {
     padding: 0 30px;
@@ -2674,7 +2675,7 @@ a.loadmore:hover {
     top: -5px;
 }
 .single-sidebar-widget .title .decor-line {
-    background: #C4D114;
+    background: #853D80;
     width: 45px;
     height: 3px;
     display: inline-block;
@@ -2735,7 +2736,7 @@ a.loadmore:hover {
     transition: color .3s ease;
 }
 .single-sidebar-widget .post-widget ul li .text-box h3 a:hover {
-    color: #C4D114;
+    color: #853D80;
 }
 .single-sidebar-widget .post-widget ul li .text-box span {
     color: #1CBAC8;
@@ -4305,7 +4306,7 @@ section.profile-information p.note:before
 {
   content: "";
   border-right: 1px solid #d6d6d6;
-  background: #c4d114;
+  background: #853D80;
   width: 8px;
   height: 100%;
   position: absolute;
@@ -4341,8 +4342,8 @@ section.profile-information .social li a i {
 section.profile-information  .social li a {
     width: 35px;
     height: 35px;
-    border: 1px solid #c4d114;
-    color: #c4d114;
+    border: 1px solid #853D80;
+    color: #853D80;
     text-align: center;
     display: block;
     border-radius: 50%;
@@ -4390,7 +4391,7 @@ section.profile-information .icon-box i
   width: 52px;
   height: 52px;
   border-radius: 50%;
-  background: #c4d114;
+  background: #853D80;
   text-align: center;
   line-height: 55px;
 }
