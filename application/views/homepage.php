@@ -52,10 +52,10 @@
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
 					<div class="sec-title">
-						<h2>We are financial Advisor</h2>
+						<h2>We are Accounting Advisor</h2>
 						<div class="decor-line"></div>
 					</div>
-					<p>As a one stop solution provider we render services in the areas of Accounting, Auditing, Direct taxes, Indirect taxes, Corporate laws and General laws</p>
+					<p>Lorem ipsum dolor sit amet, cons ectetur elit. Vestibulum nec</p>
 				</div>
 			</div>
 			<div class="row">
@@ -63,8 +63,8 @@
 					<div class="single-welcome-box">
 						<div class="icon-box"><img src="assets/images/icon/1.png"></div>
 						<div class="text-box">
-							<h4>Audit Services</h4>
-							<p>We Mainly focus on the quality of the auditing and our audit Professional's gives the assured quality output </p>
+							<h4>Corporate Compliance and Governance</h4>
+							<p>Lorem ipsum dolor sit amet, cons ectetur elit. Vestibulum nec</p>
 						</div>
 					</div>
 				</div>
@@ -72,7 +72,7 @@
 					<div class="single-welcome-box">
 						<div class="icon-box"><img src="assets/images/icon/2.png"></div>
 						<div class="text-box">
-							<h4>Direct Taxation</h4>
+							<h4>Audit and Assurancey</h4>
 							<p>We offer this service to individuals, coporates, LLPs.</p>
 						</div>
 					</div>
@@ -81,7 +81,7 @@
 					<div class="single-welcome-box">
 						<div class="icon-box"><img src="assets/images/icon/3.png"></div>
 						<div class="text-box">
-							<h4>Indirect Taxation</h4>
+							<h4>Funding and Restructuring</h4>
 							<p>Lorem ipsum dolor sit amet, cons ectetur elit. Vestibulum nec </p>
 						</div>
 					</div>
@@ -90,7 +90,7 @@
 					<div class="single-welcome-box">
 						<div class="icon-box"><img src="assets/images/icon/4.png"></div>
 						<div class="text-box">
-							<h4> Start-up Support</h4>
+							<h4> Advisory</h4>
 							<p>Lorem ipsum dolor sit amet, cons ectetur elit. Vestibulum nec </p>
 						</div>
 					</div>
@@ -99,7 +99,7 @@
 					<div class="single-welcome-box">
 						<div class="icon-box"><img src="assets/images/icon/5.png"></div>
 						<div class="text-box">
-							<h4>Corporate Outsourcing Services</h4>
+							<h4>Accounting and Outsourcing</h4>
 							<p>Lorem ipsum dolor sit amet, cons ectetur elit. Vestibulum nec </p>
 						</div>
 					</div>
@@ -108,12 +108,18 @@
 					<div class="single-welcome-box">
 						<div class="icon-box"><img src="assets/images/icon/6.png"></div>
 						<div class="text-box">
-							<h4>Investment Planning</h4>
+							<h4>TAX</h4>
 							<p>Lorem ipsum dolor sit amet, cons ectetur elit. Vestibulum nec </p>
 						</div>
 					</div>
 				</div>
 			</div>
+		</div>
+	</section>
+	<section class="home-cta text-center">
+		<div class="thm-container">
+			<h3>To help enterpreneurs get their act together</h3>
+			<p>before they to investors</p><a href="#" class="thm-button inverse">contact us</a>
 		</div>
 	</section>
 	<section class="full-img-sec">
@@ -128,27 +134,17 @@
 						<p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p><br>
 						<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 						<div class="list_item">
-              <span class="">
-                <img src="assets/images/icon/icon-1.png" alt="" >
-  							<p>Dedicated <br>Team</p>
-              </span>
-              <span class="">
-                <img src="assets/images/icon/icon-2.png" alt="">
-                <p>Best <br>Advisors</p>
-              </span>
-              <span class="">
-                <img src="assets/images/icon/icon-3.png" alt="">
-                <p class="support">24/7 <br>Supports</p>
-              </span>
-
-
-						</div>
+									<img src="assets/images/icon/icon-1.png" alt="">
+		 							<p>Dedicated <br>Team</p><img src="assets/images/icon/icon-2.png" alt="">
+		 							<p>Best <br>Advisors</p><img src="assets/images/icon/icon-3.png" alt="">
+		 							<p class="support">24/7 <br>Supports</p>
+		 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-	<section class="our-cases sec-pad">
+<!--	<section class="our-cases sec-pad">
 		<div class="container">
 			<div class="sec-title">
 				<h2>our cases</h2>
@@ -161,36 +157,36 @@
 							<h3 class="heading">Energy & environment</h3>
 						</div>
 					</div>
-					<!-- single case box-->
+
 				</div>
-				<!-- col-->
+
 				<div class="col-md-3 col-sm-6 col-xs-12">
 					<div class="single-case-box">
 						<div class="img-holder"><img src="assets/images/case-2.jpg">
 							<h3 class="heading">Energy & environment</h3>
 						</div>
 					</div>
-					<!-- single case box-->
+
 				</div>
-				<!-- col-->
+
 				<div class="col-md-3 col-sm-6 col-xs-12">
 					<div class="single-case-box">
 						<div class="img-holder"><img src="assets/images/case-3.jpg">
 							<h3 class="heading">Energy & environment</h3>
 						</div>
 					</div>
-					<!-- single case box-->
+
 				</div>
-				<!-- col-->
+
 				<div class="col-md-3 col-sm-6 col-xs-12">
 					<div class="single-case-box">
 						<div class="img-holder"><img src="assets/images/case-4.jpg">
 							<h3 class="heading">Energy & environment</h3>
 						</div>
 					</div>
-					<!-- single case box-->
+
 				</div>
-				<!-- col-->
+
 			</div>
 		</div>
 	</section>
@@ -221,7 +217,7 @@
 			<h3>To help enterpreneurs get their act together</h3>
 			<p>before they to investors</p><a href="#" class="thm-button inverse">contact us</a>
 		</div>
-	</section>
+	</section>-->
 	<section class="sec-pad">
 		<div class="thm-container">
 			<div class="sec-title">
