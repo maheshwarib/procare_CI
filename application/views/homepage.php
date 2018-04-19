@@ -6,10 +6,8 @@
 					<div class="thm-container">
 						<div class="box valign-bottom">
 							<div class="content text-center">
-								<h2 data-animation="animated fadeInUp" class="animated fadeInUp">Professional Guidance</h2>
-								<p data-animation="animated fadeInDown" class="animated fadeInDown">You will be always aware of all business and financial news and stay informed with <br>investment tips, market predictions, business advice and guides. </p>
-								<a data-animation="animated fadeInLeft" href="#" class="animated fadeInLeft thm-button">Learn more <i class="fa fa-arrow-right"></i></a>
-								<a data-animation="animated fadeInRight" href="#" class="animated fadeInRight thm-button inverse">View services <i class="fa fa-arrow-right"></i></a>
+								<h2 data-animation="animated fadeInUp" class="animated fadeInUp">Complete Solutions To Financial Accounting and Taxation</h2>
+								<a data-animation="animated fadeInRight" href="services.html" class="animated fadeInRight thm-button inverse">View services <i class="fa fa-arrow-right"></i></a>
 							</div>
 						</div>
 					</div>
@@ -20,10 +18,9 @@
 					<div class="thm-container">
 						<div class="box valign-bottom">
 							<div class="content text-center">
-								<h2 data-animation="animated fadeInUp" class="animated fadeInUp">We can manage your finance</h2>
-								<p data-animation="animated fadeInDown" class="animated fadeInDown">You will be always aware of all business and financial news and stay informed with <br>investment tips, market predictions, business advice and guides. </p>
-								<a data-animation="animated fadeInLeft" href="#" class="thm-button animated fadeInLeft">Learn more <i class="fa fa-arrow-right"></i></a>
-								<a data-animation="animated fadeInRight" href="#" class=" animated fadeInRight thm-button inverse">View services <i class="fa fa-arrow-right"></i></a>
+								<h2 data-animation="animated fadeInUp" class="animated fadeInUp">Complete Solutions To Financial Accounting and Taxation </h2>
+
+								<a data-animation="animated fadeInRight" href="services.html" class=" animated fadeInRight thm-button inverse">View services <i class="fa fa-arrow-right"></i></a>
 							</div>
 						</div>
 					</div>
@@ -34,10 +31,8 @@
 					<div class="thm-container">
 						<div class="box valign-bottom">
 							<div class="content text-center">
-								<h2 data-animation="animated fadeInUp" class="animated fadeInUp">We can solve your problems</h2>
-								<p data-animation="animated fadeInDown" class="animated fadeInDown">You will be always aware of all business and financial news and stay informed with <br>investment tips, market predictions, business advice and guides. </p>
-								<a data-animation="animated fadeInLeft" href="#" class="animated fadeInLeft thm-button">Learn more <i class="fa fa-arrow-right"></i></a>
-								<a data-animation="animated fadeInRight" href="#" class="animated fadeInRight thm-button inverse">View services <i class="fa fa-arrow-right"></i></a>
+								<h2 data-animation="animated fadeInUp" class="animated fadeInUp">Complete Solutions To Financial Accounting and Taxation</h2>
+									<a data-animation="animated fadeInRight" href="services.html" class="animated fadeInRight thm-button inverse">View services <i class="fa fa-arrow-right"></i></a>
 							</div>
 						</div>
 					</div>
