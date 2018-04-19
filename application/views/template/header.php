@@ -50,6 +50,7 @@
 				<ul class="nav navbar-nav pull-right">
 
 					<li><a href="about.html">About us</a></li>
+					<li><a href="gst.html">GST</a></li>
 					<li class="dropdown"><a href="services.html">Services</a>
 						<ul class="dropdown-submenu">
 							<li><a href="#">Business growth</a></li>
