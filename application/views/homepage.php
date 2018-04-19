@@ -64,7 +64,7 @@
 						<div class="icon-box"><img src="assets/images/icon/1.png"></div>
 						<div class="text-box">
 							<h4>Corporate Compliance and Governance</h4>
-							<p>Lorem ipsum dolor sit amet, cons ectetur elit. Vestibulum nec</p>
+							<p>Lorem ipsum dolor sit amet, cons ectetur </p>
 						</div>
 					</div>
 				</div>
@@ -136,8 +136,7 @@
 						<div class="list_item">
 									<img src="assets/images/icon/icon-1.png" alt="">
 		 							<p>Dedicated <br>Team</p><img src="assets/images/icon/icon-2.png" alt="">
-		 							<p>Best <br>Advisors</p><img src="assets/images/icon/icon-3.png" alt="">
-		 							<p class="support">24/7 <br>Supports</p>
+		 							<p>Best <br>Advisors</p>
 		 						</div>
 					</div>
 				</div>
