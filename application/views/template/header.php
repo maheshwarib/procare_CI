@@ -18,8 +18,8 @@
 
 </head>
 
-<body>
-	<header class="header">
+<body >
+	<header class="header" id="header">
 		<div class="thm-container clearfix">
 			<div class="col-md-6 col-sm-6">
 				<div class="welcome-message">
@@ -36,11 +36,11 @@
 		</div>
 	</header>
 
-	<nav id="main-navigation-wrapper" class="navbar navbar-default finance-navbar affix">
+	<nav id="main-navigation-wrapper" class="navbar navbar-default finance-navbar"> <!-- affix is removed-->
 		<div class="thm-container">
 			<div class="logo pull-left">
-			<!--	<a href="#" class="logo-desktop"><img src="assets/images/icon/Procare-header.png" width="80px" height="20px" alt="Awesome Image"></a>-->
-				<a href="  <?php echo base_url(); ?>" class="logo-mobile"><img src="assets/images/icon/Procare-header.png" width="120px" height="40px" alt="Awesome Image"></a>
+				<a href="<?php echo base_url(); ?>" class="logo-desktop"><img src="assets/images/icon/pc1.png"  alt="Procare accounting solutions" width="80%"></a>
+				<a href=" <?php echo base_url(); ?>" class="logo-mobile"><img src="assets/images/icon/pc1.png"  alt="Procare accounting solutions"></a>
 			</div>
 
 			<div class="navbar-header">
@@ -52,7 +52,7 @@
 					<li><a href="about.html">About us</a></li>
 					<li><a href="gst.html">GST</a></li>
 					<li class="dropdown"><a href="services.html">Services</a>
-						<ul class="dropdown-submenu">
+					<!--	<ul class="dropdown-submenu">
 							<li><a href="#">Business growth</a></li>
 							<li><a href="#">Busniess Loan</a></li>
 							<li><a href="#">Financial Planning</a></li>
@@ -62,7 +62,7 @@
 							<li><a href="#">Investment Management</a></li>
 							<li><a href="#">Investment In Bond</a></li>
 							<li><a href="#">Mutual Funds</a></li>
-						</ul>
+						</ul>-->
 					</li>
 
 					<li><a href="contactus.html">contact us</a></li>
