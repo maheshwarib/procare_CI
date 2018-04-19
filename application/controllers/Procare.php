@@ -41,5 +41,13 @@ $data['contents']  = 'services';
 $data['page'] = 4;
 $this->load->view('template', $data);
 }
-
+public function gst()
+{
+/*Define single page content as usual*/
+$toView['page_content'] = date("H:i:s");
+$toView['title'] = "GST of Procare Accounting Solutions";
+$data['contents']  = 'gst';
+$data['page'] = 5;
+$this->load->view('template', $data);
+}
       }

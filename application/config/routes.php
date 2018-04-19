@@ -57,3 +57,4 @@ $route['default_controller'] = 'procare/homepage';
 $route['about.html'] = 'procare/about';
 $route['contactus.html'] = 'procare/contactus';
 $route['services.html'] = 'procare/services';
+$route['gst.html'] = 'procare/gst';
