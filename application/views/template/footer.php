@@ -1,7 +1,6 @@
 <section class="map-section">
   <div class="map-outer">
-    <div id="contact-google-map" data-map-lat="13.006195" data-map-lng="77.547980" data-map-zoom="12" data-icon-path="images/map-marker.png" data-map-title="Hanoi" data-markers="{		&quot;marker-1&quot;: [13.006195, 77.547980, &quot;&lt;h4&gt;Main Head Office&lt;/h4&gt;&lt;p&gt;#11/2, Bovipalya, Bengaluru&lt;/p&gt;&quot;]	}"
-      class="google-map"></div>
+   <div id="map" style="width:100%;height:400px;" ></div>
 
     <div class="container">
       <div class="outer-container">
@@ -71,8 +70,8 @@
 								<div class="decor-line"></div>
 							</div>
 							<ul class="twitter-feed">
-								<li><a href="#"><i class="fa fa-twitter"> </i><span class="color-light-grn">@ProcareSolutions,</span> Procare Accounting Solutions</a></li>
-								<li><a href="#"><i class="fa fa-facebook"> </i><span class="color-light-grn">@ProcareSolutions,</span> Procare Accounting Solutions</a></li>
+								<li><a href="#"><i class="fa fa-twitter"></i><span class="color-light-grn">@ProcareSolutions,</span> Procare Accounting Solutions</a></li>
+								<li><a href="#"><i class="fa fa-facebook"></i><span class="color-light-grn">@ProcareSolutions,</span> Procare Accounting Solutions</a></li>
 							</ul>
 						</div>
 					</div>
@@ -119,23 +118,22 @@
 			</div>
 		</div>
 	</section>
-  <script>
-  function myMap() {
-    var mapCanvas = document.getElementById("contact-google-map");
 
-    var myCenter = new google.maps.LatLng(13.006195, 77.547980);
-    var mapOptions = {center: myCenter, zoom: 15};
-    var map = new google.maps.Map(mapCanvas,mapOptions);
-    var marker = new google.maps.Marker({
-      position: myCenter,
-      animation: google.maps.Animation.BOUNCE
-    });
-    marker.setMap(map);
-  }
-  </script>
- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAkD7-j7G2ZxH0n_Y_WR7o7d-Uthu2MDAo&callback=myMap"></script>
-    <script src="https://maps.googleapis.com/maps/api/js"></script>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.24/gmaps.min.js"></script>
+  		<script>
+  		function myMap() {
+  		  var mapCanvas = document.getElementById("map");
+  		  var myCenter = new google.maps.LatLng( 13.005836,  77.547861);
+  		  var mapOptions = {center: myCenter, zoom: 16};
+  		  var map = new google.maps.Map(mapCanvas,mapOptions);
+  		  var marker = new google.maps.Marker({
+  		    position: myCenter,
+  		    animation: google.maps.Animation.BOUNCE
+  		  });
+  		  marker.setMap(map);
+  		}
+  		</script>
+
+  	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAkD7-j7G2ZxH0n_Y_WR7o7d-Uthu2MDAo&callback=myMap"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
