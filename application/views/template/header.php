@@ -39,8 +39,8 @@
 	<nav id="main-navigation-wrapper" class="navbar navbar-default finance-navbar"> <!-- affix is removed-->
 		<div class="thm-container">
 			<div class="logo pull-left">
-				<a href="<?php echo base_url(); ?>" class="logo-desktop"><img src="assets/images/icon/pc1.png"  alt="Procare accounting solutions" width="80%"></a>
-				<a href=" <?php echo base_url(); ?>" class="logo-mobile"><img src="assets/images/icon/pc1.png"  alt="Procare accounting solutions"></a>
+				<a href="<?php echo base_url(); ?>" class="logo-desktop"><img src="assets/images/icon/pc.png"  alt="Procare accounting solutions" width="80%"></a>
+				<a href=" <?php echo base_url(); ?>" class="logo-mobile"><img src="assets/images/icon/pc.png"  alt="Procare accounting solutions"></a>
 			</div>
 
 			<div class="navbar-header">
