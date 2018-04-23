@@ -1,7 +1,7 @@
 
 	<div id="minimal-bootstrap-carousel" data-ride="carousel" class="carousel slide carousel-fade shop-slider">
 		<div class="carousel-inner" role="listbox">
-			<div style="background-image: url(assets/images/slider/1-1.jpg);background-position:center right;" class="item active slide-1">
+			<div style="background-image: url(assets/images/slider/slider11.jpeg);background-position:center right;" class="item active slide-1">
 				<div class="carousel-caption">
 					<div class="thm-container">
 						<div class="box valign-bottom">
@@ -13,12 +13,12 @@
 					</div>
 				</div>
 			</div>
-			<div style="background-image: url(assets/images/slider/1-2.jpg);background-position: center right;" class="item slide-2">
+			<div style="background-image: url(assets/images/slider/slider22.jpeg);background-position: center right;" class="item slide-2">
 				<div class="carousel-caption">
 					<div class="thm-container">
 						<div class="box valign-bottom">
 							<div class="content text-center">
-								<h2 data-animation="animated fadeInUp" class="animated fadeInUp">Complete Solutions To Financial Accounting and Taxation </h2>
+								<h2 data-animation="animated fade   InUp" class="animated fadeInUp">Complete Solutions To Financial Accounting and Taxation </h2>
 
 								<a data-animation="animated fadeInRight" href="services.html" class=" animated fadeInRight thm-button inverse">View services <i class="fa fa-arrow-right"></i></a>
 							</div>
@@ -26,7 +26,7 @@
 					</div>
 				</div>
 			</div>
-			<div style="background-image: url(assets/images/slider/1-3.jpg);background-position: center right;" class="item slide-3">
+			<div style="background-image: url(assets/images/slider/slider33.jpg);background-position: center right;" class="item slide-3">
 				<div class="carousel-caption">
 					<div class="thm-container">
 						<div class="box valign-bottom">
